@@ -52,4 +52,16 @@ Una transacción puede contener información como:
 - País habitual de compra.
 El sistema analizará estas características y proporcionará una clasificación de riesgo.
 
+## Problema y objetivo
+
+**Problema**
+El proyecto actual es muy basico y no cumple con los requsiitos adecuados, ya que carece de documentacion y de estructura y principalmente de herramientas y procesos de como se desarrollará.
+
+**Objetivo medible**
+Documentar la estrctura incial así como su desarrollo incluyendo datos reales y herramientas. De esta manera, se integrará por medio de git un Pull Request para dar un cierre automatico al issue. 
+
+**Siguiente paso**
+Crear rama correspondiente, guardar las modificaciones y realizar el commit y push para abrir el Pull Request.
+
+
 
